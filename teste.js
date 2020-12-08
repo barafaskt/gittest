@@ -1,0 +1,1 @@
+window.confirm("Tudo ok?");
